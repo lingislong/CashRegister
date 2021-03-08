@@ -1,4 +1,4 @@
 # CashRegister
 
-Project in a C ++ ,
+Project in a C ++ and MFS
 simulation of a cash register interface for the writer.
